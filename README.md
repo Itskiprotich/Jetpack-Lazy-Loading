@@ -7,6 +7,9 @@ Main elements of the screen:
 - Custom buttons.
 - List of images.
 
-### Preview
+### App Preview
 
 ![App UI](screenshots/one.png)
+### Video Preview
+
+![App UI](screenshots/video.mp4)
